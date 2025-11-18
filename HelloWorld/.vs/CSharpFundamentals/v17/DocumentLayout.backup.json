@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trist\\Coding\\C#\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E54F5-64BD-41AB-88F9-937ABFB41CB7}|HelloWorld\\CSharpFundamentals.csproj|c:\\users\\trist\\coding\\c#\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E54F5-64BD-41AB-88F9-937ABFB41CB7}|HelloWorld\\CSharpFundamentals.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E54F5-64BD-41AB-88F9-937ABFB41CB7}|HelloWorld\\CSharpFundamentals.csproj|c:\\users\\trist\\coding\\c#\\helloworld\\helloworld\\basics\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E54F5-64BD-41AB-88F9-937ABFB41CB7}|HelloWorld\\CSharpFundamentals.csproj|solutionrelative:helloworld\\basics\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E54F5-64BD-41AB-88F9-937ABFB41CB7}|HelloWorld\\CSharpFundamentals.csproj|c:\\users\\trist\\coding\\c#\\helloworld\\helloworld\\basics\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E54F5-64BD-41AB-88F9-937ABFB41CB7}|HelloWorld\\CSharpFundamentals.csproj|solutionrelative:helloworld\\basics\\datatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTypes.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Coding\\C#\\HelloWorld\\HelloWorld\\Basics\\DataTypes.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Basics\\DataTypes.cs",
+              "ToolTip": "C:\\Users\\trist\\Coding\\C#\\HelloWorld\\HelloWorld\\Basics\\DataTypes.cs",
+              "RelativeToolTip": "HelloWorld\\Basics\\DataTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:26:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Coding\\C#\\HelloWorld\\HelloWorld\\Basics\\Variables.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Basics\\Variables.cs",
+              "ToolTip": "C:\\Users\\trist\\Coding\\C#\\HelloWorld\\HelloWorld\\Basics\\Variables.cs",
+              "RelativeToolTip": "HelloWorld\\Basics\\Variables.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T00:23:19.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Coding\\C#\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\trist\\Coding\\C#\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T23:48:06.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
