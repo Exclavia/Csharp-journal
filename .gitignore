@@ -1,0 +1,10 @@
+.vs/
+
+obj/
+
+bin/
+
+net8.0/
+*.exe
+
+.DS_Store
